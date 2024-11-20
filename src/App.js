@@ -18,7 +18,12 @@ function App() {
           Learn React
         </a>
       </header>
+      <div>
+      <h1>Hello, GitHub! This is an Fast-food ordering app.  
+      </h1>
     </div>
+    </div>
+
   );
 }
 
